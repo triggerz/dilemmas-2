@@ -1,7 +1,7 @@
 # Config
  - Title: Low Quality A3s
  - Image: https://triggerz.github.io/dilemma-prototype/woman.jpg
- - Next: Kaizen
+ - Next: kaizen
 
 # Description
 ...
