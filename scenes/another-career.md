@@ -1,7 +1,7 @@
 # Config
- - Title: Another Career
+ - Title: Your specialist wants to pursue another career 
  - Image: https://triggerz.github.io/dilemma-prototype/woman.jpg
- - Next: confrontation
+ - Next: Your specialist wants to pursue another career
 
 # Description
 Lone has been working in your team for the past two years. She's highly skilled and the only one who knows how to manage a core process in your team. 
