@@ -1,5 +1,5 @@
 # Config
- - Title: Confrontation
+ - Title: Dealing with a confrontation
  - Image: https://triggerz.github.io/dilemma-prototype/woman.jpg
  - Next: disagreeing
 
