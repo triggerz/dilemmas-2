@@ -1,15 +1,12 @@
 # Config
- - Title: Introduction to DAILY DILEMMAS
+ - Title: Introduction to Leadership dilemmas
  - Next: another-career
  - Image: http://res.cloudinary.com/triggerz/image/upload/v1513608100/shutterstock_536177023_1_yikfgf.jpg
 
 # Description
-In the following you will face a series of difficult situations. For each situation you must decide what to do based on a list of 3-4 different options. 
+You are now presented for 10 dilemmas. 
+When you get to the dilemmas please read the individual dilemma carefully.
+Choose the option that is the more realistic for you even though the option may not be 100% in tune with what you would do in real life. 
 
-And your choices have consequences: As in real life, your task is to maximixe *Engagement* and *Output* in your team, whilst not overspending on *Resources*. You will get instant feedback on every choice. 
+When you have finalised the Competent Compass you will receive feedback on your choices in the various dilemmas. 
 
-DAILY DILEMMAS is a collection of realistic dilemmas, created by Associate Managers in Novo Nordisk. Both the dilemmas as well as the evaluation of the different responses represents the best advice possible, based on Novo Nordisk values and behavioural guidelines. 
-
-But: As every situation and every person is different the recommandations are not as simple as they seem. You will always need to engage a good bit of common sence when you make the real everyday choices. 
-
-Enjoy. 
