@@ -1,6 +1,6 @@
 # Config
  - Title: Visual Management
- - Image: https://triggerz.github.io/dilemma-prototype/woman.jpg
+ - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1526484046/dilem10_visual_management.jpg
  - Next: outro
 
 # Description
