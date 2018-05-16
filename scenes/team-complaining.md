@@ -1,6 +1,6 @@
 # Config
  - Title: Your team is complaining over a colleague
- - Image: https://triggerz.github.io/dilemma-prototype/woman.jpg
+ - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1526483785/dilem6_team_complaining_over_colleague.jpg
  - Next: low-quality-a3s
 
 # Description
