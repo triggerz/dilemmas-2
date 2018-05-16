@@ -1,6 +1,6 @@
 # Config
  - Title: Your specialist wants to pursue another career 
- - Image: https://triggerz.github.io/dilemma-prototype/woman.jpg
+ - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1526483139/dilem1_specialist_wants_pursue_another_career.jpg
  - Next: confrontation
 
 # Description
