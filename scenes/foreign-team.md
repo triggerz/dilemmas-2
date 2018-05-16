@@ -1,6 +1,6 @@
 # Config
  - Title: Integrating a foreign team member into your team 
- - Image: https://triggerz.github.io/dilemma-prototype/woman.jpg
+ - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1526498178/Uden_navn.jpg
  - Next: team-complaining
 
 # Description
