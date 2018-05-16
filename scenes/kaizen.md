@@ -1,6 +1,6 @@
 # Config
  - Title: Kaizen
- - Image: https://triggerz.github.io/dilemma-prototype/woman.jpg
+ - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1526483942/dilem8_kaizen.jpg
  - Next: process-confirmation
 
 # Description
