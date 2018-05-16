@@ -1,6 +1,6 @@
 # Config
  - Title: Disagreeing with a direct manager 
- - Image: https://triggerz.github.io/dilemma-prototype/woman.jpg
+ - Image: https://cloudinary.com/console/media_library/asset/image/upload/dilem3_disagreeing_with_DM
  - Next: foreign-team
 
 # Description
