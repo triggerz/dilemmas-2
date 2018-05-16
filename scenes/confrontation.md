@@ -1,6 +1,6 @@
 # Config
  - Title: Dealing with a confrontation
- - Image: https://triggerz.github.io/dilemma-prototype/woman.jpg
+ - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1526498266/dilem2_dealing_with_a_confrontation_2-kopi.jpg
  - Next: disagreeing
 
 # Description
