@@ -1,6 +1,6 @@
 # Config
  - Title: Disagreeing with a direct manager 
- - Image: https://cloudinary.com/console/media_library/asset/image/upload/dilem3_disagreeing_with_DM
+ - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1526483690/dilem3_disagreeing_with_DM.jpg
  - Next: foreign-team
 
 # Description
