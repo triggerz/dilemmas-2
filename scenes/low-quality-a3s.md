@@ -1,6 +1,6 @@
 # Config
  - Title: Problem solving and addressing low quality A3s
- - Image: https://triggerz.github.io/dilemma-prototype/woman.jpg
+ - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1526483812/dilem7_low_quality_A3.jpg
  - Next: kaizen
 
 # Description
