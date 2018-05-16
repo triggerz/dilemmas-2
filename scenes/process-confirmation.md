@@ -1,6 +1,6 @@
 # Config
  - Title: Process Confirmation
- - Image: https://triggerz.github.io/dilemma-prototype/woman.jpg
+ - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1526483988/dilem9_process_confirmation.jpg
  - Next: visual-management
 
 # Description
